@@ -1,18 +1,13 @@
 <img align="center" src="https://files.catbox.moe/kx6lgu.png">
 <div align="center">
   <img align="center" width="200" src="https://files.catbox.moe/fx7u64.png"> 
-<div align="center"><img align="center" width="300" src="https://readme-typing-svg.demolab.com?font=Love+Light&size=39&duration=5000&pause=3000&color=FFFE95&center=true&width=500&lines=Please+don't+take+inspiration+from+my+layout">
-<div align="center">
-<img align="center" width="300" src="https://readme-typing-svg.demolab.com?font=Love+Light&size=37&duration=5000&pause=3000&color=FFFE95&center=true&width=400&lines=blacklist+at+the+end">
-  
-<img src="https://files.catbox.moe/n5bgkh.png" width="50">な⏖ T ĐANG WIP DCU LƯỜI VL <img src="https://files.catbox.moe/cx5srx.png" width="50">
-<div align="center">
-<img 
-src="https://files.catbox.moe/ih0y0g.png" width="100"> 
-<img 
-src="https://files.catbox.moe/bd3vmw.png" width="100">
+</div>
+<p align="center">
+  ${\textsf{\color{#FFFE95} remaking}}$
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a73df376-9b82-4cec-9083-1ccdb0e17b79" width="240">
+ <img width="30" src="https://cdn.discordapp.com/attachments/1464953887353208937/1527754948240998430/Untitled12_20260718021234.png?ex=6a5bd02b&is=6a5a7eab&hm=93895d07087126bc5441f993b254f9118d863278c25860b7167d472d72752b3d&">
+</div>
+  <div align="center">
+<img width="200" src="https://files.catbox.moe/5spibr.png">
 
-  ![img](https://files.catbox.moe/6dp9f4.png)
