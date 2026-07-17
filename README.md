@@ -1,7 +1,8 @@
 <img align="center" src="https://files.catbox.moe/kx6lgu.png">
-<img align="center" width="200" src="https://files.catbox.moe/fx7u64.png"> 
-<img align="center" width="300" src="https://readme-typing-svg.demolab.com?font=Love+Light&size=39&duration=5000&pause=3000&color=FFFE95&center=true&width=500&lines=Please+don't+take+inspiration+from+my+layout">
-
+<div align="center">
+  <img align="center" width="200" src="https://files.catbox.moe/fx7u64.png"> 
+<div align="center"><img align="center" width="300" src="https://readme-typing-svg.demolab.com?font=Love+Light&size=39&duration=5000&pause=3000&color=FFFE95&center=true&width=500&lines=Please+don't+take+inspiration+from+my+layout">
+<div align="center">
 <img align="center" width="300" src="https://readme-typing-svg.demolab.com?font=Love+Light&size=37&duration=5000&pause=3000&color=FFFE95&center=true&width=400&lines=blacklist+at+the+end">
   
 <img src="https://files.catbox.moe/n5bgkh.png" width="50">な⏖ T ĐANG WIP DCU LƯỜI VL <img src="https://files.catbox.moe/cx5srx.png" width="50">
