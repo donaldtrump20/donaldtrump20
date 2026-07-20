@@ -1,4 +1,4 @@
-<img align="center" src="https://files.catbox.moe/kx6lgu.png">
+<img align="center" src="https://cdn.discordapp.com/attachments/1464953887353208937/1528606623378047036/Khong_Co_Tieu_e4_20260720103624.png?ex=6a5ee95b&is=6a5d97db&hm=b9c80f6d210010050597341d4e5f50c7dc1bc7805a5b064e6e021ac099abfafe&">
 
 <p align="center">
   ${\textsf{\color{#AFAE73} contact:@eor.xxvi on discord }}$
